@@ -1,9 +1,11 @@
+/* Default configurations, border with 0 margin */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* body background */
 body {
     background-color: #d9dcd6;
 }
@@ -15,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/* Company logo */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +27,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Right aligned navbar */
 .navbar {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* Background image for main splash page */
 .mainBackground {
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* Used for embedded images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +75,14 @@ p {
     margin-left: 25px;
 }
 
+/* Left aligned content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* right aligned aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +94,7 @@ p {
     background-color: #2589bd;
 }
 
+/* TODO: redundant stuff, consolidate this */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -134,6 +143,7 @@ p {
     max-width: 150px;
 }
 
+/* TODO: more redundant stuff, fix this too */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
