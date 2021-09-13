@@ -27,8 +27,8 @@ body {
     color: #d9dcd6;
 }
 
-/* Right aligned navbar */
-.navbar {
+/* Right aligned navigation */
+.navigation {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ body {
     font-size: 20px;
 }
 
-.navbar ul {
+.navigation ul {
     list-style-type: none;
 }
 
-.navbar ul li {
+.navigation ul li {
     display: inline-block;
     margin-left: 25px;
 }
