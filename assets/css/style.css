@@ -45,6 +45,7 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* Default links and text */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -55,13 +56,12 @@ p {
 }
 
 /* Background image for main splash page */
-.mainBackground {
+#mainBackground {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    object-fit: cover;
+    position: center;
 }
 
 /* Used for embedded images */
