@@ -23,8 +23,9 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 em {
     color: #d9dcd6;
+    font-style: normal;
 }
 
 /* Right aligned navigation */
@@ -64,6 +65,13 @@ p {
     position: center;
 }
 
+/* Left aligned content */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 /* Used for embedded images */
 .float-left {
     float: left;
@@ -73,13 +81,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/* Left aligned content */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* right aligned aside */
