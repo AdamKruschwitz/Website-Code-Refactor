@@ -1,8 +1,11 @@
-# bcb-homework-1
-Homework 1 for Berkley Full-Stack flex coding bootcamp
+# Website Code Refactor
+A website code refactoring assignment for Berkley's Full-Stack Flex Bootcamp.
 
 ## About
-In this assignment, we were tasked with creating a new GitHub repo, adding some development code, and refactoring the code to be more semantic, as well as fixing certain bugs.
+In this assignment, we were tasked with:
+- Make the code more semantic
+- Make the website work with accessibility tools
+- Reduce redundancy within the code
 
 ## Work done
 1. Replace div tags with more semantic tags

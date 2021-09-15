@@ -1,8 +1,18 @@
 /* Default configurations, border with 0 margin */
-* {
+* { /* all elements */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+
+/* Default links and text */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
 }
 
 /* body background */
@@ -17,23 +27,13 @@ header {
     color: #ffffff;
 }
 
-/* Default links and text */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 /* Company logo */
-header h1 {
+h1 { 
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 em {
+h1 em {
     color: #d9dcd6;
     font-style: normal;
 }
@@ -47,17 +47,17 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
+ul {
     list-style-type: none;
 }
 
-nav ul li {
+li { 
     display: inline-block;
     margin-left: 25px;
 }
 
 /* Background image for main splash page */
-#mainBackground {
+#backgroundSplash {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -65,15 +65,15 @@ nav ul li {
     position: center;
 }
 
-/* Left aligned content */
-.content {
+/* Left aligned offer */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Content block formatting */
-.content article {
+/* offer text formatting */
+.offer {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -82,16 +82,16 @@ nav ul li {
     color: #ffffff;
 }
 
-.content article img {
+.offer img {
     max-height: 200px;
 }
 
-.content article h2 {
+.offer h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Used for embedded images */
+/* Used for embedded images in offers */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -115,17 +115,17 @@ nav ul li {
 }
 
 /* Aside block formatting */
-.benefits article {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits article h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits article img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
