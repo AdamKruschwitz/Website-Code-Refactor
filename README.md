@@ -2,7 +2,7 @@
 A website code refactoring assignment for Berkley's Full-Stack Flex Bootcamp.
 
 ## About
-In this assignment, we were tasked with:
+In this assignment, our task was to:
 - Make the code more semantic
 - Make the website work with accessibility tools
 - Reduce redundancy within the code
@@ -14,8 +14,6 @@ In this assignment, we were tasked with:
 4. Remove unnecessary redundancy from CSS
 
 ## Author
-<ul>
-    <li><a href="https://github.com/AdamKruschwitz" target="_blank">Github</a></li>
-    <li><a href="https://www.linkedin.com/in/adamkruschwitz/" target="_blank">LinkedIn</a></li>
-    <li><a href="#" target="_blank">Portfolio</a> (Coming soon)</li>
-</ul>
+- <a href="https://github.com/AdamKruschwitz" target="_blank">Github</a></li>
+- <a href="https://www.linkedin.com/in/adamkruschwitz/" target="_blank">LinkedIn</a></li>
+- <a href="#" target="_blank">Portfolio</a> (Coming soon)</li>
