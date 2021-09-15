@@ -14,6 +14,9 @@ In this assignment, our task was to:
 4. Remove unnecessary redundancy from CSS
 
 ## Author
-- <a href="https://github.com/AdamKruschwitz" target="_blank">Github</a></li>
-- <a href="https://www.linkedin.com/in/adamkruschwitz/" target="_blank">LinkedIn</a></li>
-- <a href="#" target="_blank">Portfolio</a> (Coming soon)</li>
+- [Github](https://github.com/AdamKruschwitz)
+- [LinkedIn](https://www.linkedin.com/in/adamkruschwitz/)
+- [Portfolio]() (Coming soon)
+
+## License
+This website is under the [Anti-Capitalist Software License](https://anticapitalist.software/).
