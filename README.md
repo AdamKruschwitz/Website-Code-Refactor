@@ -8,6 +8,8 @@ I was able to find a few quick issues to fix. First, the link to the "Search Eng
 
 Through the research I performed for this project, I learned more about accessibility standards and semantic HTML tags, and I learned how to use the Lighthouse accessibility auditor to check my work. 
 
+## [Link to deployed site](https://adamkruschwitz.github.io/Website-Code-Refactor/)
+
 ## Work done
 1. Replace div tags with more semantic tags
 2. Ensure all class names are appropriate and semantic
