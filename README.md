@@ -13,6 +13,9 @@ In this assignment, our task was to:
 3. Fix any bugs surrounding page links
 4. Remove unnecessary redundancy from CSS
 
+## Screenshot
+![screenshot of finished website](https://raw.githubusercontent.com/AdamKruschwitz/Website-Code-Refactor/main/screenshot.PNG)
+
 ## Author
 - [Github](https://github.com/AdamKruschwitz)
 - [LinkedIn](https://www.linkedin.com/in/adamkruschwitz/)
